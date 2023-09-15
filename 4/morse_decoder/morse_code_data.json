@@ -1,0 +1,515 @@
+[
+    {
+        "type": "kor",
+        "word": "\u3131",
+        "mos": ".-.."
+    },
+    {
+        "type": "kor",
+        "word": "\u3134",
+        "mos": "..-."
+    },
+    {
+        "type": "kor",
+        "word": "\u3137",
+        "mos": "-..."
+    },
+    {
+        "type": "kor",
+        "word": "\u3139",
+        "mos": "...-"
+    },
+    {
+        "type": "kor",
+        "word": "\u3141",
+        "mos": "--"
+    },
+    {
+        "type": "kor",
+        "word": "\u3142",
+        "mos": ".--"
+    },
+    {
+        "type": "kor",
+        "word": "\u3145",
+        "mos": "--."
+    },
+    {
+        "type": "kor",
+        "word": "\u3147",
+        "mos": "-.-"
+    },
+    {
+        "type": "kor",
+        "word": "\u3148",
+        "mos": ".--."
+    },
+    {
+        "type": "kor",
+        "word": "\u314a",
+        "mos": "-.-."
+    },
+    {
+        "type": "kor",
+        "word": "\u314b",
+        "mos": "-..-"
+    },
+    {
+        "type": "kor",
+        "word": "\u314c",
+        "mos": "--.."
+    },
+    {
+        "type": "kor",
+        "word": "\u314d",
+        "mos": "---"
+    },
+    {
+        "type": "kor",
+        "word": "\u314e",
+        "mos": ".---"
+    },
+    {
+        "type": "kor",
+        "word": "\u3132",
+        "mos": ".-...-.."
+    },
+    {
+        "type": "kor",
+        "word": "\u3138",
+        "mos": "-...-..."
+    },
+    {
+        "type": "kor",
+        "word": "\u3143",
+        "mos": ".--.--"
+    },
+    {
+        "type": "kor",
+        "word": "\u3146",
+        "mos": "--.--."
+    },
+    {
+        "type": "kor",
+        "word": "\u3149",
+        "mos": ".--..--."
+    },
+    {
+        "type": "kor",
+        "word": "\u314f",
+        "mos": "."
+    },
+    {
+        "type": "kor",
+        "word": "\u3151",
+        "mos": ".."
+    },
+    {
+        "type": "kor",
+        "word": "\u3153",
+        "mos": "-"
+    },
+    {
+        "type": "kor",
+        "word": "\u3155",
+        "mos": "..."
+    },
+    {
+        "type": "kor",
+        "word": "\u3157",
+        "mos": ".-"
+    },
+    {
+        "type": "kor",
+        "word": "\u315b",
+        "mos": "-."
+    },
+    {
+        "type": "kor",
+        "word": "\u315c",
+        "mos": "...."
+    },
+    {
+        "type": "kor",
+        "word": "\u3160",
+        "mos": ".-."
+    },
+    {
+        "type": "kor",
+        "word": "\u3161",
+        "mos": "-.."
+    },
+    {
+        "type": "kor",
+        "word": "\u3163",
+        "mos": "..-"
+    },
+    {
+        "type": "kor",
+        "word": "\u3154",
+        "mos": "-.--"
+    },
+    {
+        "type": "kor",
+        "word": "\u3150",
+        "mos": "--.-"
+    },
+    {
+        "type": "kor",
+        "word": "\u3152",
+        "mos": "....-"
+    },
+    {
+        "type": "kor",
+        "word": "\u3156",
+        "mos": ".....-"
+    },
+    {
+        "type": "kor",
+        "word": "\u3158",
+        "mos": ".-."
+    },
+    {
+        "type": "kor",
+        "word": "\u3159",
+        "mos": ".---.-"
+    },
+    {
+        "type": "kor",
+        "word": "\u315a",
+        "mos": ".-..-"
+    },
+    {
+        "type": "kor",
+        "word": "\u315d",
+        "mos": "....-"
+    },
+    {
+        "type": "kor",
+        "word": "\u315e",
+        "mos": "....-.--"
+    },
+    {
+        "type": "kor",
+        "word": "\u315f",
+        "mos": "......-"
+    },
+    {
+        "type": "kor",
+        "word": "\u3162",
+        "mos": "-....-"
+    },
+    {
+        "type": "kor",
+        "word": "\u3133",
+        "mos": ".-..--."
+    },
+    {
+        "type": "kor",
+        "word": "\u3135",
+        "mos": "..-..--."
+    },
+    {
+        "type": "kor",
+        "word": "\u3136",
+        "mos": "..-..---"
+    },
+    {
+        "type": "kor",
+        "word": "\u313a",
+        "mos": "...-.-.."
+    },
+    {
+        "type": "kor",
+        "word": "\u313b",
+        "mos": "...---"
+    },
+    {
+        "type": "kor",
+        "word": "\u313c",
+        "mos": "...-.--"
+    },
+    {
+        "type": "kor",
+        "word": "\u313d",
+        "mos": "...---."
+    },
+    {
+        "type": "kor",
+        "word": "\u313e",
+        "mos": "...---.."
+    },
+    {
+        "type": "kor",
+        "word": "\u313f",
+        "mos": "...----"
+    },
+    {
+        "type": "kor",
+        "word": "\u3140",
+        "mos": "...-.---"
+    },
+    {
+        "type": "kor",
+        "word": "\u3144",
+        "mos": ".----."
+    },
+    {
+        "type": "eng",
+        "word": [
+            "a",
+            "A"
+        ],
+        "mos": ".-"
+    },
+    {
+        "type": "eng",
+        "word": [
+            "b",
+            "B"
+        ],
+        "mos": "-..."
+    },
+    {
+        "type": "eng",
+        "word": [
+            "c",
+            "C"
+        ],
+        "mos": "-.-."
+    },
+    {
+        "type": "eng",
+        "word": [
+            "d",
+            "D"
+        ],
+        "mos": "-.."
+    },
+    {
+        "type": "eng",
+        "word": [
+            "e",
+            "E"
+        ],
+        "mos": "."
+    },
+    {
+        "type": "eng",
+        "word": [
+            "f",
+            "F"
+        ],
+        "mos": "..-."
+    },
+    {
+        "type": "eng",
+        "word": [
+            "g",
+            "G"
+        ],
+        "mos": "--."
+    },
+    {
+        "type": "eng",
+        "word": [
+            "h",
+            "H"
+        ],
+        "mos": "...."
+    },
+    {
+        "type": "eng",
+        "word": [
+            "i",
+            "I"
+        ],
+        "mos": ".."
+    },
+    {
+        "type": "eng",
+        "word": [
+            "j",
+            "J"
+        ],
+        "mos": ".---"
+    },
+    {
+        "type": "eng",
+        "word": [
+            "k",
+            "K"
+        ],
+        "mos": "-.-"
+    },
+    {
+        "type": "eng",
+        "word": [
+            "l",
+            "L"
+        ],
+        "mos": ".-.."
+    },
+    {
+        "type": "eng",
+        "word": [
+            "m",
+            "M"
+        ],
+        "mos": "--"
+    },
+    {
+        "type": "eng",
+        "word": [
+            "n",
+            "N"
+        ],
+        "mos": "-."
+    },
+    {
+        "type": "eng",
+        "word": [
+            "o",
+            "O"
+        ],
+        "mos": "---"
+    },
+    {
+        "type": "eng",
+        "word": [
+            "p",
+            "P"
+        ],
+        "mos": ".--."
+    },
+    {
+        "type": "eng",
+        "word": [
+            "q",
+            "Q"
+        ],
+        "mos": "--.-"
+    },
+    {
+        "type": "eng",
+        "word": [
+            "r",
+            "R"
+        ],
+        "mos": ".-."
+    },
+    {
+        "type": "eng",
+        "word": [
+            "s",
+            "S"
+        ],
+        "mos": "..."
+    },
+    {
+        "type": "eng",
+        "word": [
+            "t",
+            "T"
+        ],
+        "mos": "-"
+    },
+    {
+        "type": "eng",
+        "word": [
+            "u",
+            "U"
+        ],
+        "mos": "..-"
+    },
+    {
+        "type": "eng",
+        "word": [
+            "v",
+            "V"
+        ],
+        "mos": "...-"
+    },
+    {
+        "type": "eng",
+        "word": [
+            "w",
+            "W"
+        ],
+        "mos": ".--"
+    },
+    {
+        "type": "eng",
+        "word": [
+            "x",
+            "X"
+        ],
+        "mos": "-..-"
+    },
+    {
+        "type": "eng",
+        "word": [
+            "y",
+            "Y"
+        ],
+        "mos": "-.--"
+    },
+    {
+        "type": "eng",
+        "word": [
+            "z",
+            "Z"
+        ],
+        "mos": "--.."
+    },
+    {
+        "type": "num",
+        "word": "0",
+        "mos": "-----"
+    },
+    {
+        "type": "num",
+        "word": "1",
+        "mos": ".----"
+    },
+    {
+        "type": "num",
+        "word": "2",
+        "mos": "..---"
+    },
+    {
+        "type": "num",
+        "word": "3",
+        "mos": "...--"
+    },
+    {
+        "type": "num",
+        "word": "4",
+        "mos": "....-"
+    },
+    {
+        "type": "num",
+        "word": "5",
+        "mos": "....."
+    },
+    {
+        "type": "num",
+        "word": "6",
+        "mos": "-...."
+    },
+    {
+        "type": "num",
+        "word": "7",
+        "mos": "--..."
+    },
+    {
+        "type": "num",
+        "word": "8",
+        "mos": "---.."
+    },
+    {
+        "type": "num",
+        "word": "9",
+        "mos": "----."
+    }
+]
